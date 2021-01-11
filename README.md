@@ -1,4 +1,5 @@
 **Machine Learning Case Study: predicting the rating of a movie**
+
 A Data Science Machine Learning approach to predict which films will be highly rated based on different characteristics.
 Dataset Information
 
